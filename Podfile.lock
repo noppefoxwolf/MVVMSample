@@ -1,0 +1,38 @@
+PODS:
+  - NFRxSwiftExt (0.4.0):
+    - RxCocoa
+    - RxOptional
+    - RxSwift
+    - RxSwiftExt
+  - NSObject+Rx (4.2.0):
+    - RxSwift (~> 4.0)
+  - RxCocoa (4.1.0):
+    - RxSwift (~> 4.0)
+  - RxOptional (3.3.0):
+    - RxCocoa (~> 4.0)
+    - RxSwift (~> 4.0)
+  - RxSwift (4.1.0)
+  - RxSwiftExt (3.1.0):
+    - RxSwiftExt/Core (= 3.1.0)
+  - RxSwiftExt/Core (3.1.0):
+    - RxSwift (~> 4.0)
+
+DEPENDENCIES:
+  - NFRxSwiftExt
+  - NSObject+Rx
+  - RxCocoa
+  - RxOptional
+  - RxSwift
+  - RxSwiftExt
+
+SPEC CHECKSUMS:
+  NFRxSwiftExt: 52027a8f7108985a18191cae2fbc4f0721f9a71e
+  NSObject+Rx: cbbc05e3cb3ad446cdbced3e00e39c9efaf02925
+  RxCocoa: cc1fec49cdc8fabe645964de7c51c099a36c2aa8
+  RxOptional: e5448d3e21024489e07c31f6a262f2b50c975367
+  RxSwift: 4219941c1244c88002901bd87a69d3aea9ae71f0
+  RxSwiftExt: a9b9c8e94be009146707f9fcb16eaf3cc1f3910c
+
+PODFILE CHECKSUM: d99479a353abe3f1e92264f53505499c1e047914
+
+COCOAPODS: 1.4.0.beta.2
